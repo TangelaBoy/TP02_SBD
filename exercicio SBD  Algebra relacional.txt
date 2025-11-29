@@ -1,7 +1,8 @@
 a) pi numero (o departamento,'vendas' ^ categoria 3 (R1)) R{27710}
 
 b) pi numero (o categoria, 5 < (R1)) R{contabilidade}
-
+ffgfgfgfffffff
 c) pi categoria (o departamento : 'Armazem'(R1)) R{4}
+
 
 d) pi departamento (R1) - pi departamento (o categoria = 5 (R1)) R{Armazem,Vendas,Publicidade}
